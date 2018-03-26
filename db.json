@@ -1,0 +1,57 @@
+{
+    "mercaderia":[
+        {
+            "id":5050,
+            "descripcion": "Chipitas Primicia 100g",
+            "codbarra": "7840045050508"            
+        },
+        {
+            "id":5051,
+            "descripcion": "Chipitas Primicia 200g",
+            "codbarra": "7840045050509"            
+        },
+        {
+            "id":5049,
+            "descripcion": "Chipitas Primicia 40g",
+            "codbarra": "7840045050507"            
+        },
+        {
+            "id":5050,
+            "descripcion": "Chipitas Primicia 100g",
+            "codbarra": "7840045050506"            
+        }
+    ],
+    "lugar":[
+        {
+            "id":102,
+            "descripcion": "Depósito 2 Amancio Cod:102"
+        },
+        {
+            "id":106,
+            "descripcion": "Depósito 6 Cnel. Oviedo Cod:106"
+        },
+        {
+            "id":102,
+            "descripcion": "Depósito 7 Encarnación Cod:107"
+        }
+    ],
+    "datostabla":[
+        {
+            "nro": 1,
+            "fecha":"01/03/2018",
+            "concepto":"Rep. 2401 Factura Contado",
+            "nrodoc": "30030002014",
+            "movcantidad": -1,
+            "saldocantidad": 139,
+            "movkilo":-0.1,
+            "saldokilo":13.9,
+            "movcosto":-1.756,
+            "salcosto": 244093,
+            "costopromcantidad": 1756.0647,
+            "costopromkilo": 17560.6475,
+            "costomovcantidad": 1756,
+            "costomovkilo": 17560,
+            "asiento": "868508"
+        }
+    ]
+}
