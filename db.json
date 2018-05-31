@@ -1,4 +1,32 @@
 {
+    
+  "tipofecha" : [
+    {value: '1', viewValue: 'Fecha Contable'},
+    {value: '2', viewValue: 'Fecha Movimiento'}
+  ],
+  "lugarnivsup" : [
+    {value: '0', viewValue: '--NONE--'},
+    {value: '1', viewValue: 'Depósito 2 Amancio'},
+    {value: '2', viewValue: 'Depósito 5 FM'},
+    {value: '3', viewValue: 'Depósito 7 Encanacion'},
+    {value: '4', viewValue: 'Depósito 15 Concepcion'}
+  ],
+   "lugar":[
+        {value: '0', viewValue: '--NONE--'},
+        {value: '1', viewValue: 'Depósito 2 Amancio'},
+        {value: '2', viewValue: 'Depósito 5 FM'},
+        {value: '3', viewValue: 'Depósito 7 Encanacion'},
+        {value: '4', viewValue: 'Depósito 15 Concepcion'},
+        {value: '5', viewValue: 'Depósito 2 Amancio'},
+        {value: '6', viewValue: 'Depósito 2 Amancio'},
+        {value: '7', viewValue: 'Depósito 2 Amancio'},
+        {value: '8', viewValue: 'Depósito 2 Amancio'},
+        {value: '9', viewValue: 'Depósito 2 Amancio'},
+        {value: '10', viewValue: 'Depósito 2 Amancio'},
+        {value: '11', viewValue: 'Depósito 2 Amancio'},
+        {value: '12', viewValue: 'Depósito 2 Amancio'},
+        {value: '13', viewValue: 'Depósito 2 Amancio'}
+    ],
     "mercaderia":[
         {
             "id":5050,
