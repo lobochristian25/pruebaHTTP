@@ -1,36 +1,37 @@
-{    
+{   
+    
   "tipofecha" : [
-  {
-     "value": "1", "viewvalue": "Fecha Contable" ,
-     "value": "2", "viewvalue": "Fecha Movimiento" 
-  }
+  
+      {"value": "1", "viewvalue": "Fecha Contable" } ,
+      {"value": "2", "viewvalue": "Fecha Movimiento" } 
+  
   ],
   "lugarnivsup" : [
-  {
-     "value": "0", "viewvalue": "--NONE--" ,
-     "value": "1", "viewvalue": "Depósito 2 Amancio" ,
-     "value": "2", "viewvalue": "Depósito 5 FM" ,
-     "value": "3", "viewvalue": "Depósito 7 Encanacion" ,
-     "value": "4", "viewvalue": "Depósito 15 Concepcion" 
-   }
+  
+      {"value": "0", "viewvalue": "--NONE--" } ,
+      {"value": "1", "viewvalue": "Depósito 2 Amancio" } ,
+      {"value": "2", "viewvalue": "Depósito 5 FM" } ,
+      {"value": "3", "viewvalue": "Depósito 7 Encanacion" } ,
+      {"value": "4", "viewvalue": "Depósito 15 Concepcion" }
+   
   ],
    "lugar":[
-   {
-         "value": "0", "viewvalue": "--NONE--" ,
-         "value": "1", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "2", "viewvalue": "Depósito 5 FM" ,
-         "value": "3", "viewvalue": "Depósito 7 Encanacion" ,
-         "value": "4", "viewvalue": "Depósito 15 Concepcion" ,
-         "value": "5", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "6", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "7", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "8", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "9", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "10", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "11", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "12", "viewvalue": "Depósito 2 Amancio" ,
-         "value": "13", "viewvalue": "Depósito 2 Amancio" 
-	}
+   
+          {"value": "0", "viewvalue": "--NONE--" } ,
+          {"value": "1", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "2", "viewvalue": "Depósito 5 FM" } ,
+          {"value": "3", "viewvalue": "Depósito 7 Encanacion" } ,
+          {"value": "4", "viewvalue": "Depósito 15 Concepcion" } ,
+          {"value": "5", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "6", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "7", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "8", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "9", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "10", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "11", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "12", "viewvalue": "Depósito 2 Amancio" } ,
+          {"value": "13", "viewvalue": "Depósito 2 Amancio" }
+	
     ],
     "mercaderia":[
         {
