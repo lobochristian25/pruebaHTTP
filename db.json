@@ -15,24 +15,6 @@
       {"value": "4", "viewvalue": "Depósito 15 Concepcion" }
    
   ],
-   "lugar":[
-   
-          {"value": "0", "viewvalue": "--NONE--" } ,
-          {"value": "1", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "2", "viewvalue": "Depósito 5 FM" } ,
-          {"value": "3", "viewvalue": "Depósito 7 Encanacion" } ,
-          {"value": "4", "viewvalue": "Depósito 15 Concepcion" } ,
-          {"value": "5", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "6", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "7", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "8", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "9", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "10", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "11", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "12", "viewvalue": "Depósito 2 Amancio" } ,
-          {"value": "13", "viewvalue": "Depósito 2 Amancio" }
-	
-    ],
     "mercaderia":[
         {
             "id":5050,
@@ -118,6 +100,12 @@
             "id":107,
             "descripcion": "Depósito 7 Encarnación Cod:107"
         }
+	  {"id": "0", "descripion": "--NONE--" } ,
+          {"id": "1", "descripion": "Depósito 100 Nuevo" } ,
+          {"id": "2", "descripion": "Depósito 5 FM" } ,
+          {"id": "3", "descripion": "Depósito 8 Prueba" } ,
+          {"id": "4", "descripion": "Depósito 15 Concepcion" } ,
+          {"id": "5", "descripion": "Depósito 20 Prueba2" } 
     ],
     "datostabla":[
         {
