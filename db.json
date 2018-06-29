@@ -41,57 +41,58 @@
 		{"id": 4, "descripcion": "Depósito 15 Concepcion" } ,
 		{"id": 5, "descripcion": "Depósito 20 Prueba2" } 
     	],
-    "datostabla":[
-        {
-            "nro": 1,
-            "fecha":"01/03/2018",
-            "concepto":"Rep. 2401 Factura Contado",
-            "nrodoc": "30030002014",
-            "movcantidad": -1,
-            "saldocantidad": 139,
-            "movkilo":-0.1,
-            "saldokilo":13.9,
-            "movcosto":-1.756,
-            "salcosto": 244093,
-            "costopromcantidad": 1756.0647,
-            "costopromkilo": 17560.6475,
-            "costomovcantidad": 1756,
-            "costomovkilo": 17560,
-            "asiento": "868508"
-        },
-        {
-            "nro": 2,
-            "fecha":"01/03/2018",
-            "concepto":"Rep. 2401 Factura Contado",
-            "nrodoc": "30030002014",
-            "movcantidad": -1,
-            "saldocantidad": 139,
-            "movkilo":-0.1,
-            "saldokilo":13.9,
-            "movcosto":-1.756,
-            "salcosto": 244093,
-            "costopromcantidad": 1756.0647,
-            "costopromkilo": 17560.6475,
-            "costomovcantidad": 1756,
-            "costomovkilo": 17560,
-            "asiento": "868508"
-        },
-        {
-            "nro": 3,
-            "fecha":"01/03/2018",
-            "concepto":"Rep. 2401 Factura Contado",
-            "nrodoc": "30030002014",
-            "movcantidad": -1,
-            "saldocantidad": 139,
-            "movkilo":-0.1,
-            "saldokilo":13.9,
-            "movcosto":-1.756,
-            "salcosto": 244093,
-            "costopromcantidad": 1756.0647,
-            "costopromkilo": 17560.6475,
-            "costomovcantidad": 1756,
-            "costomovkilo": 17560,
-            "asiento": "868508"
-        }
-    ]
+    "datostabla":
+	[
+		{
+		    "nro": 1,
+		    "fecha":"01/03/2018",
+		    "concepto":"Rep. 2401 Factura Contado",
+		    "nrodoc": "30030002014",
+		    "movcantidad": -1,
+		    "saldocantidad": 139,
+		    "movkilo":-0.1,
+		    "saldokilo":13.9,
+		    "movcosto":-1.756,
+		    "salcosto": 244093,
+		    "costopromcantidad": 1756.0647,
+		    "costopromkilo": 17560.6475,
+		    "costomovcantidad": 1756,
+		    "costomovkilo": 17560,
+		    "asiento": "868508"
+		},
+		{
+		    "nro": 2,
+		    "fecha":"01/03/2018",
+		    "concepto":"Rep. 2401 Factura Contado",
+		    "nrodoc": "30030002014",
+		    "movcantidad": -1,
+		    "saldocantidad": 139,
+		    "movkilo":-0.1,
+		    "saldokilo":13.9,
+		    "movcosto":-1.756,
+		    "salcosto": 244093,
+		    "costopromcantidad": 1756.0647,
+		    "costopromkilo": 17560.6475,
+		    "costomovcantidad": 1756,
+		    "costomovkilo": 17560,
+		    "asiento": "868508"
+		},
+		{
+		    "nro": 3,
+		    "fecha":"01/03/2018",
+		    "concepto":"Rep. 2401 Factura Contado",
+		    "nrodoc": "30030002014",
+		    "movcantidad": -1,
+		    "saldocantidad": 139,
+		    "movkilo":-0.1,
+		    "saldokilo":13.9,
+		    "movcosto":-1.756,
+		    "salcosto": 244093,
+		    "costopromcantidad": 1756.0647,
+		    "costopromkilo": 17560.6475,
+		    "costomovcantidad": 1756,
+		    "costomovkilo": 17560,
+		    "asiento": "868508"
+		}
+	]
 }
