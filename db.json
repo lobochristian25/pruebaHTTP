@@ -1,112 +1,46 @@
 {   
-    
-  "tipofecha" : [
-  
-      {"value": "1", "viewvalue": "Fecha Contable" } ,
-      {"value": "2", "viewvalue": "Fecha Movimiento" } 
-  
-  ],
-  "lugarnivsup" : [
-  
-      {"value": "0", "viewvalue": "--NONE--" } ,
-      {"value": "1", "viewvalue": "Depósito 2 Amancio" } ,
-      {"value": "2", "viewvalue": "Depósito 5 FM" } ,
-      {"value": "3", "viewvalue": "Depósito 7 Encanacion" } ,
-      {"value": "4", "viewvalue": "Depósito 15 Concepcion" }
-   
-  ],
-    "mercaderia":[
-        {
-            "id":5050,
-            "descripcion": "Chipitas Primicia 100g",
-            "codbarra": "7840045050508"            
-        },
-        {
-            "id":5051,
-            "descripcion": "Chipitas Primicia 200g",
-            "codbarra": "7840045050509"            
-        },
-        {
-            "id":5049,
-            "descripcion": "Chipitas Primicia 40g",
-            "codbarra": "7840045050507"            
-        },
-        {
-            "id":5053,
-            "descripcion": "Chipitas Primicia 100g",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":4793,
-            "descripcion": "Yerba Indega Comp Nat Plast 20x100",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":6060,
-            "descripcion": "Coca Cola",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":7070,
-            "descripcion": "Harina 1kg",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":8080,
-            "descripcion": "Naranja",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":9090,
-            "descripcion": "Mandarina",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":9091,
-            "descripcion": "Guarana",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":9092,
-            "descripcion": "Mirinda",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":9093,
-            "descripcion": "Sprite",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":9094,
-            "descripcion": "Niko",
-            "codbarra": "7840045050506"            
-        },
-        {
-            "id":9095,
-            "descripcion": "Pepsi",
-            "codbarra": "7840045050506"            
-        }
-    ],
-    "lugar":[
-        {
-            "id":102,
-            "descripcion": "Depósito 2 Amancio Cod:102"
-        },
-        {
-            "id":106,
-            "descripcion": "Depósito 6 Cnel. Oviedo Cod:106"
-        },
-        {
-            "id":107,
-            "descripcion": "Depósito 7 Encarnación Cod:107"
-        },
-	  {"id": 0, "descripcion": "--NONE--" } ,
-          {"id": 1, "descripcion": "Depósito 100 Nuevo" } ,
-          {"id": 2, "descripcion": "Depósito 5 FM" } ,
-          {"id": 3, "descripcion": "Depósito 8 Prueba" } ,
-          {"id": 4, "descripcion": "Depósito 15 Concepcion" } ,
-          {"id": 5, "descripcion": "Depósito 20 Prueba2" } 
-    ],
+  "tipofecha" : 
+	[
+		{"id": "1", "descripcion": "Fecha Contable" } ,
+		{"id": "2", "descripcion": "Fecha Movimiento" } 
+  	],
+  "lugarnivsup" : 
+	[
+		{"id": "0", "descripcion": "--NONE--" } ,
+		{"id": "1", "descripcion": "Depósito 2 Amancio" } ,
+		{"id": "2", "descripcion": "Depósito 5 FM" } ,
+		{"id": "3", "descripcion": "Depósito 7 Encanacion" } ,
+		{"id": "4", "descripcion": "Depósito 15 Concepcion" }
+   	],
+    "mercaderia":
+	[
+		{"id":5050, "descripcion": "Chipitas Primicia 100g", "codbarra": "7840045050508"},
+		{"id":5051, "descripcion": "Chipitas Primicia 200g", "codbarra": "7840045050509"},
+		{"id":5049, "descripcion": "Chipitas Primicia 40g", "codbarra": "7840045050507"},
+		{"id":5053, "descripcion": "Chipitas Primicia 100g", "codbarra": "7840045050506"},
+		{"id":4793, "descripcion": "Yerba Indega Comp Nat Plast 20x100", "codbarra": "7840045050506"},
+		{"id":6060, "descripcion": "Coca Cola", "codbarra": "7840045050506"},
+		{"id":7070, "descripcion": "Harina 1kg", "codbarra": "7840045050506"},
+		{"id":8080, "descripcion": "Naranja", "codbarra": "7840045050506"},
+		{"id":9090, "descripcion": "Mandarina", "codbarra": "7840045050506"},
+		{"id":9091, "descripcion": "Guarana", "codbarra": "7840045050506"},
+		{"id":9092, "descripcion": "Mirinda", "codbarra": "7840045050506"},
+		{"id":9093, "descripcion": "Sprite", "codbarra": "7840045050506"},
+		{"id":9094, "descripcion": "Niko", "codbarra": "7840045050506"},
+		{"id":9095, "descripcion": "Pepsi", "codbarra": "7840045050506"}
+    	],
+    "lugar":
+	[
+		{"id":102, "descripcion": "Depósito 2 Amancio Cod:102"},
+		{"id":106, "descripcion": "Depósito 6 Cnel. Oviedo Cod:106"},
+		{"id":107, "descripcion": "Depósito 7 Encarnación Cod:107"},
+		{"id": 0, "descripcion": "--NONE--" } ,
+		{"id": 1, "descripcion": "Depósito 100 Nuevo" } ,
+		{"id": 2, "descripcion": "Depósito 5 FM" } ,
+		{"id": 3, "descripcion": "Depósito 8 Prueba" } ,
+		{"id": 4, "descripcion": "Depósito 15 Concepcion" } ,
+		{"id": 5, "descripcion": "Depósito 20 Prueba2" } 
+    	],
     "datostabla":[
         {
             "nro": 1,
