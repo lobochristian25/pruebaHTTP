@@ -100,12 +100,12 @@
             "id":107,
             "descripcion": "Depósito 7 Encarnación Cod:107"
         },
-	  {"id": "0", "descripcion": "--NONE--" } ,
-          {"id": "1", "descripcion": "Depósito 100 Nuevo" } ,
-          {"id": "2", "descripcion": "Depósito 5 FM" } ,
-          {"id": "3", "descripcion": "Depósito 8 Prueba" } ,
-          {"id": "4", "descripcion": "Depósito 15 Concepcion" } ,
-          {"id": "5", "descripcion": "Depósito 20 Prueba2" } 
+	  {"id": 0, "descripcion": "--NONE--" } ,
+          {"id": 1, "descripcion": "Depósito 100 Nuevo" } ,
+          {"id": 2, "descripcion": "Depósito 5 FM" } ,
+          {"id": 3, "descripcion": "Depósito 8 Prueba" } ,
+          {"id": 4, "descripcion": "Depósito 15 Concepcion" } ,
+          {"id": 5, "descripcion": "Depósito 20 Prueba2" } 
     ],
     "datostabla":[
         {
