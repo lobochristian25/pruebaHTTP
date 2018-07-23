@@ -12,22 +12,22 @@
 		{"id": "3", "descripcion": "Depósito 7 Encanacion" } ,
 		{"id": "4", "descripcion": "Depósito 15 Concepcion" }
    	],
-    "mercaderia":
+    "product":
 	[
-		{"id":5050, "descripcion": "Chipitas Primicia 100g", "codbarra": "7840045050508"},
-		{"id":5051, "descripcion": "Chipitas Primicia 200g", "codbarra": "7840045050509"},
-		{"id":5049, "descripcion": "Chipitas Primicia 40g", "codbarra": "7840045050507"},
-		{"id":5053, "descripcion": "Chipitas Primicia 100g", "codbarra": "7840045050506"},
-		{"id":4793, "descripcion": "Yerba Indega Comp Nat Plast 20x100", "codbarra": "7840045050506"},
-		{"id":6060, "descripcion": "Coca Cola", "codbarra": "7840045050506"},
-		{"id":7070, "descripcion": "Harina 1kg", "codbarra": "7840045050506"},
-		{"id":8080, "descripcion": "Naranja", "codbarra": "7840045050506"},
-		{"id":9090, "descripcion": "Mandarina", "codbarra": "7840045050506"},
-		{"id":9091, "descripcion": "Guarana", "codbarra": "7840045050506"},
-		{"id":9092, "descripcion": "Mirinda", "codbarra": "7840045050506"},
-		{"id":9093, "descripcion": "Sprite", "codbarra": "7840045050506"},
-		{"id":9094, "descripcion": "Niko", "codbarra": "7840045050506"},
-		{"id":9095, "descripcion": "Pepsi", "codbarra": "7840045050506"}
+		{"id":5050, "description": "Chipitas Primicia 100g", "barcode": "7840045050508"},
+		{"id":5051, "description": "Chipitas Primicia 200g", "barcode": "7840045050509"},
+		{"id":5049, "description": "Chipitas Primicia 40g", "barcode": "7840045050507"},
+		{"id":5053, "description": "Chipitas Primicia 100g", "barcode": "7840045050506"},
+		{"id":4793, "description": "Yerba Indega Comp Nat Plast 20x100", "barcode": "7840045050506"},
+		{"id":6060, "description": "Coca Cola", "barcode": "7840045050506"},
+		{"id":7070, "description": "Harina 1kg", "barcode": "7840045050506"},
+		{"id":8080, "description": "Naranja", "barcode": "7840045050506"},
+		{"id":9090, "description": "Mandarina", "barcode": "7840045050506"},
+		{"id":9091, "description": "Guarana", "barcode": "7840045050506"},
+		{"id":9092, "description": "Mirinda", "barcode": "7840045050506"},
+		{"id":9093, "description": "Sprite", "barcode": "7840045050506"},
+		{"id":9094, "description": "Niko", "barcode": "7840045050506"},
+		{"id":9095, "description": "Pepsi", "barcode": "7840045050506"}
     	],
     "lugar":
 	[
