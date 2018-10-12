@@ -58,7 +58,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 1"
 		},
 		{
 		    "nro": 2,
@@ -75,7 +76,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 3,
@@ -92,7 +94,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 4,
@@ -109,7 +112,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 2"
 		},
 		{
 		    "nro": 5,
@@ -126,7 +130,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 1"
 		},
 		{
 		    "nro": 2,
@@ -143,7 +148,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 3,
@@ -160,7 +166,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 2"
 		},
 		{
 		    "nro": 4,
@@ -177,7 +184,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 5,
@@ -194,7 +202,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 2,
@@ -211,7 +220,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 3,
@@ -228,7 +238,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 0"
 		},
 		{
 		    "nro": 4,
@@ -245,7 +256,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 1"
 		},
 		{
 		    "nro": 5,
@@ -262,7 +274,8 @@
 		    "costopromkilo": 17560.6475,
 		    "costomovcantidad": 1756,
 		    "costomovkilo": 17560,
-		    "asiento": "868508"
+		    "asiento": "868508",
+		    "anulado_anulador": 2"
 		}
 	]
 }
